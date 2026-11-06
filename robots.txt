@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Troque pelo domínio final depois de configurar na Vercel
-Sitemap: https://SEU-DOMINIO/sitemap.xml
+Sitemap: https://voncarnew.vercel.app/sitemap.xml
